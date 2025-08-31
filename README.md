@@ -5,10 +5,11 @@ This is my personal developer portfolio showcasing my work in **Web Development*
 ### Sections
 - Home
 - About Me
-- Projects (WordPress, Traditional Web, Data)
+- Projects (Web, Data)
 - Contact Links
 
 ### Live Demo
 Deployed on GitHub Pages: 
+
 
 
