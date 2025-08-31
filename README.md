@@ -8,4 +8,5 @@ This is my personal developer portfolio showcasing my work in **Web Development*
 - Contact Links
 
 ### Live Demo
-Deployed on GitHub Pages: [link here after deployment]
+Deployed on GitHub Pages: 
+
